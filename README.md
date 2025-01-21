@@ -1,2 +1,2 @@
 # git-demo
-these is a git demo repo
+these is a git demo repo.
